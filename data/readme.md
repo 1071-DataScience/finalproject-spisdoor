@@ -1,0 +1,1 @@
+You should unzip the dataset.zip in to a folder named ./dataset first.

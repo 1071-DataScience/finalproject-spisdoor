@@ -12,6 +12,7 @@ You should provide an example commend to reproduce your result
 python final.py
 ```
 * any on-line visualization
+  * You can see dataset visualization before and after merge all the dataset in code/plot.ipynb
 
 ## Folder organization and its related information
 

@@ -11,6 +11,9 @@ You should provide an example commend to reproduce your result
 ```
 python final.py
 ```
+
+* If you run the code above, you can see the result print on command line just like the screen shot in /result/xgboost_auc_score_5_fold_cv.PNG
+
 * any on-line visualization
   * You can see dataset visualization before and after merge all the dataset in code/plot.ipynb
 
